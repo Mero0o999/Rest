@@ -21,7 +21,7 @@ class CreateCartsTable extends Migration
             $table->string('name')->unsigned();
             $table->double('price')->unsigned(); 
             $table->string('image')->unsigned();
-            $table->integer('quantity');
+            $table->integer('quantity')->default(1);
 
             $table->timestamps();
         });
