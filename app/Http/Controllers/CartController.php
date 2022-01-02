@@ -55,6 +55,8 @@ class CartController extends Controller
             $cart->service_id = $request->id;
             $cart->name = $request->name;
             $cart->price = $request->price;
+            $cart->quantity = $request->quantity;
+
             $cart->image = $request->image;
 
 

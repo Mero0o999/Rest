@@ -48,7 +48,7 @@
         <div hidden class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>QTY:</strong>
-                <input type="number" name="image" value = 1>
+                <input type="number" name="quantity" value = 1>
             </div>
         </div>
         </br></br>
