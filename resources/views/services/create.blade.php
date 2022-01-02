@@ -45,6 +45,12 @@
                 <input type="text" name="image" class="form-control" placeholder="URL">
             </div>
         </div>
+        <div hidden class="col-xs-12 col-sm-12 col-md-12">
+            <div class="form-group">
+                <strong>QTY:</strong>
+                <input type="number" name="image" value = 1>
+            </div>
+        </div>
         </br></br>
         <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <button type="submit" class="btn btn-primary">Submit</button>
