@@ -39,6 +39,12 @@
                 <input type="text" name="price" class="form-control" placeholder="specialization">
             </div>
         </div>
+        <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class="form-group">
+                <strong>Image:</strong>
+                <input type="text" name="image" class="form-control" placeholder="specialization">
+            </div>
+        </div>
         </br></br>
         <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <button type="submit" class="btn btn-primary">Submit</button>
