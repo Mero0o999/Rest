@@ -42,7 +42,7 @@
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Image:</strong>
-                <input type="text" name="image" class="form-control" placeholder="specialization">
+                <input type="text" name="image" class="form-control" placeholder="URL">
             </div>
         </div>
         </br></br>
