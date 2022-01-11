@@ -142,10 +142,10 @@
     <footer id="footer">
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>Kelly</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>MEEOTH</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
-                Designed by <a href="#">BootstrapMade</a>
+                Designed by MEEOTH 
             </div>
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
